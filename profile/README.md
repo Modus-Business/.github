@@ -154,8 +154,6 @@ Modus는 완벽한 답을 대신 만들어주는 서비스가 아닙니다.
 
 <br>
 
-<p align="center">
-  <sub>
+<p align="center", style="font-size: 3;">
     <strong>Modus는 AI가 대화를 대신하는 서비스가 아니라, 사람이 더 잘 협업하도록 옆에서 돕는 서비스입니다.</strong>
-  </sub>
 </p>
