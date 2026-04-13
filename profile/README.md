@@ -1,6 +1,10 @@
 # Modus
 
 <p align="center">
+  <img src="modus_text_logo.png" alt="Modus Logo" width="260" />
+</p>
+
+<p align="center">
   <strong>학생 모둠 활동을 더 안전하고 균형 있게 만드는 AI 협업 도우미</strong>
 </p>
 
@@ -150,6 +154,8 @@ Modus는 완벽한 답을 대신 만들어주는 서비스가 아닙니다.
 
 <br>
 
-<p align="center" style="font-size: 7;">
-  <strong>Modus는 AI가 대화를 대신하는 서비스가 아니라, 사람이 더 잘 협업하도록 옆에서 돕는 서비스입니다.</strong>
+<p align="center">
+  <sub>
+    <strong>Modus는 AI가 대화를 대신하는 서비스가 아니라, 사람이 더 잘 협업하도록 옆에서 돕는 서비스입니다.</strong>
+  </sub>
 </p>
